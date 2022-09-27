@@ -1,3 +1,6 @@
+
+![](programming.gif)
+
 - 👋 Hi, I’m @LC5273
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
