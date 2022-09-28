@@ -7,6 +7,8 @@
 ![](programming.gif)
 --->
 
+---
+
 - 👋 Hi, I’m @LC5273
 - 👀 I’m interested in competitive programming, C++ game development and deep learning
 - 🌱 I’m currently exploring blockchain-related technologies
@@ -38,3 +40,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+
